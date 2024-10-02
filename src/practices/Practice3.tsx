@@ -4,9 +4,15 @@ export const Practice3 = () => {
     return total;
   };
   const onClickPractice = () => {
-    let total: number = 0;
-    total = getTotalFee(1000);
+    const total: number = getTotalFee(1000);
     console.log(total);
+
+    // type User = {
+    //   id: number;
+    //   name: string;
+    //   weight: number;
+    // };
+    // const user :User = { weight:}
   };
   return (
     <div>

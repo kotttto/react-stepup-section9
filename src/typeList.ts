@@ -28,7 +28,7 @@ const funcA = (): void => {
 let null1: null = null;
 
 //undefined
-let undefind: undefined = undefined;
+let undefind1: undefined = undefined;
 
 //object
 let obj1: object = {};
